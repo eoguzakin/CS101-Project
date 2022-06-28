@@ -1,1 +1,1 @@
-CS101 Project
+My CS101 Project for 2021-2022 spring semester in Bilkent University.
